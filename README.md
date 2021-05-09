@@ -12,7 +12,7 @@ The Json has a *meta* and a *data block* on the top level. The meta block define
 
 ## Json data structure
 The *meta block* is structured in such a way that within it there is the
-*view block* which contains the column block. The column block defines how the 
+*view block* which contains the *column block*. The *column block* defines how the 
 structure of the data within the *data block* looks like and which order these data have in the data block.
 
 ### meta block structure
